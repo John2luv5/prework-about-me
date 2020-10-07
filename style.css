@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+}
+    
+.one {
+    color: red;
+} 
+.two {
+    color: blue;
+}
+.three {
+    color: green;
+}
+
+.four {
+    font-size: 40px;
+}
+.five {
+    font-size: 10px;
+}
+.six {
+    text-align: center;
+}
+.seven {
+    font-weight: bold;
+}
+.eight {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nine {
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+.styledFont {
+    color: green;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+#styledImage {
+    border-style: solid;
+    border-color: orange;
+    border-width: 10px;
+}
