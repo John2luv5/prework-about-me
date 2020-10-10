@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: olive;
+    font-size: 40px;
+}
+
+.styledFont{
+    color: green;
+    font-style: italic;
+}
+
+#styledImage {
+    border-style: ridge;
+    border-color: darkorange;
+    border-width: 40px;
+}
+
+body {background-color: burlywood;
+}
+
+.one {
+    font-size: 18px;
+}
+
+.two {
+    font-size: 18px;
+}
+
+.three {
+    font-size: 18px;
+}
+
